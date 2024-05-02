@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+   
+}
+.navbar{
+    background-color: black;
+    display: flex;
+    align-items: center;
+   justify-content:space-between;
+    color: rgb(137, 138, 139);
+    
+}
+.nav-tab{
+    width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.header-card{
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(146, 147, 148);
+    padding-bottom: 3%;
+}
+.card-new{
+   height: max-content;
+}
+.rowa{
+    margin: 1% 2%;
+    
+    background-color: aqua;
+}
